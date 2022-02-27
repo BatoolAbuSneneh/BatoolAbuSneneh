@@ -11,6 +11,7 @@
 
 ###### I'm a Full-Stack Web Developer Some technologies I enjoy working with include Javascript, HTML, CSS and  ReactJS.
 ### Languages & Tools
+    <img src="https://camo.githubusercontent.com/7673b65767c74ed894446a7b948a7698de4b58410ce0dca6a5656d24a8383790/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3035313232413f7374796c653d666c6174266c6f676f3d4865726f6b75266c6f676f436f6c6f723d343330303938" alt="Heroku" data-canonical-src="https://img.shields.io/badge/-Heroku-05122A?style=flat&amp;logo=Heroku&amp;logoColor=430098" style="max-width: 100%;">
 <img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"><img align="left" alt="React" width="26px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
 
     
